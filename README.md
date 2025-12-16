@@ -153,4 +153,4 @@ Copyright (c) 2025 Lyman Cameron / grov
 
 ---
 
-**Developed and maintained by [Lyman Cameron](https://github.com/keylympi) under the grov organization.**
+**Developed and maintained by [Lyman Cameron](https://github.com/keylympi) under the [grov](https://github.com/grov-systems/) organization.**
