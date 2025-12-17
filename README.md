@@ -136,7 +136,7 @@ This project is licensed under the **GNU GPL v3**.
 
 ```
 
-Copyright (c) 2025 Lyman Cameron / grov
+Copyright (c) 2025 keylympi / grov
 [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ```
@@ -153,4 +153,4 @@ Copyright (c) 2025 Lyman Cameron / grov
 
 ---
 
-**Developed and maintained by [Lyman Cameron](https://github.com/keylympi) under the [grov](https://github.com/grov-systems/) organization.**
+**Developed and maintained by [Pi](https://github.com/keylympi) under the [grov](https://github.com/grov-systems/) organization.**
