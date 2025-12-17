@@ -1,7 +1,7 @@
 # ASPEN — AI Voice Assistant
 
 **ASPEN** is an open-source AI voice assistant that performs tasks efficiently and safely.  
-Developed and maintained by **(https://github.com/keylympi)[Pi]** under the **(https://github.com/grov-systems)[grov]** organization.
+Developed and maintained by **[Pi](https://github.com/keylympi)** under the **[grov](https://github.com/grov-systems)** organization.
 
 ASPEN integrates speech-to-text (STT), text-to-speech (TTS), and a modular action system to execute real tasks locally or via cloud services. Its design prioritizes **privacy, modularity, and professional-grade automation**.
 
