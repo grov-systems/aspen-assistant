@@ -1,9 +1,9 @@
-# ASPEN — AI Voice Assistant
+# ASPENN — AI Voice Assistant
 
-**ASPEN** is an open-source AI voice assistant that performs tasks efficiently and safely.  
+**ASPENN** is an open-source AI voice assistant that performs tasks efficiently and safely.  
 Developed and maintained by **[Pi](https://github.com/keylympi)** under the **[grov](https://github.com/grov-systems)** organization.
 
-ASPEN integrates speech-to-text (STT), text-to-speech (TTS), and a modular action system to execute real tasks locally or via cloud services. Its design prioritizes **privacy, modularity, and professional-grade automation**.
+ASPENN integrates speech-to-text (STT), text-to-speech (TTS), and a modular action system to execute real tasks locally or via cloud services. Its design prioritizes **privacy, modularity, and professional-grade automation**.
 
 ---
 
@@ -34,7 +34,7 @@ ASPEN integrates speech-to-text (STT), text-to-speech (TTS), and a modular actio
 
 ## Architecture
 
-ASPEN is structured as a modular system for maintainability and scalability:
+ASPENN is structured as a modular system for maintainability and scalability:
 
 - Backend: Python 3.12, OpenAI Whisper, ElevenLabs TTS
 - Frontend: React.js, modern UI with real-time feedback
@@ -48,8 +48,8 @@ ASPEN is structured as a modular system for maintainability and scalability:
 
 ```
 
-git clone https://github.com/grov/aspen-assistant.git](https://github.com/grov/aspen-assistant.git
-cd aspen-assistant
+git clone https://github.com/grov/ASPENN-assistant.git](https://github.com/grov/ASPENN-assistant.git
+cd ASPENN-assistant
 
 ```
 
@@ -75,13 +75,13 @@ npm start
 
 ```
 
-ASPEN should now be running locally. Open your browser to the configured local URL for the GUI.
+ASPENN should now be running locally. Open your browser to the configured local URL for the GUI.
 
 ---
 
 ## Usage
 
-- Start ASPEN via backend script:
+- Start ASPENN via backend script:
 
 ```
 
